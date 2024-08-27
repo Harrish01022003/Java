@@ -13,3 +13,4 @@ public class SwapWithoutTemp {
 	}
 
 }
+// console a = 20 b = 10
