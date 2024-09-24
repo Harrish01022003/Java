@@ -16,6 +16,7 @@ public class SortingUsingCollection {
 		int size = values.size();
 		
 		Collections.sort(values);
+		Collections.reverse(values);
 		System.out.println(values);
 
 
